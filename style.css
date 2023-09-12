@@ -27,6 +27,13 @@ body{
   margin-top: 20%;
   float: center;
 }
+p1{
+  text-align: center;
+  color: #ff8ac4;
+  font-size: 25px;
+  margin-top: 20%;
+  float: center;
+}
 .HairSalon{
   background: linear-gradient(to left,#00f5f5,#ffbdde);
   width: 100%;
